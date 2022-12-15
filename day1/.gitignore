@@ -1,9 +1,0 @@
-# Rust
-
-debug/
-target/
-Cargo.lock
-
-# IDE
-
-.idea/
